@@ -23,4 +23,4 @@ A simple C++ project to help users manage and track their fitness goals and dail
 2. Run the program:
    ```bash
    ./health_fitness_tracker
-  ```
+   ```
